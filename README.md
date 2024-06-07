@@ -1,8 +1,5 @@
 ### Hey, I'm Zala 👋
 
-I'm a student at Noroff, studying Frontend development. I'm finishing my first year of studies, and enjoy learning new things.
+I'm currently finishing my Frontend Development studies at Noroff. Throughout my studies, I've gained a deep appreciation for the amount of work that goes into creating a website. I find it fascinating how many different ways there are to achieve the same results. Just like in baking, web development has many layers that come together to create a work of art.
 
-- 🔭 I’m currently working on my Semester Project.
-- 🤔 I’m looking for an internship or a job.
-- 💬 Ask me about HTML, CSS and JavaScript.
-- ⚡ Fun fact: in my free time I love to bake, play board games and go climbing.
+I enjoy learning new things and challenging myself. This field is especially appealing to me because it is constantly evolving, always offering something new to learn. While I know I still have a lot to learn, I'm looking forward to improving my skills and growing as a developer.
